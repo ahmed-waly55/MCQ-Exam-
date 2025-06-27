@@ -19,3 +19,10 @@
     npm start
 </code>
 </pre>
+<h2>install Json Server </h2>
+<pre>
+<code>npm install -g json-server</code>
+</pre>
+<pre>
+<code>json-server --watch db.json </code>
+</pre>
